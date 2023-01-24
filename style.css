@@ -1,0 +1,525 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+
+}
+
+.navbar-nav button{
+
+    width: 190px;
+    height: 44px;
+    background: #B68C5A;
+    border-radius: 8px;
+    color: white;
+}
+
+.navbar-brand img{
+
+    width: 98px;
+    height: 46px;
+}
+
+.nav-link{
+
+    color: #707070;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 5px;
+    
+
+}
+
+.tushar{
+
+    font-size: 30px;
+}
+
+
+.img-1 img{
+
+    width: 24px;
+    height: 20px;
+}
+
+.klick{
+
+    background-image: url(images/lady-justice-law-library-concept.jpg);
+    background-size: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    
+}
+
+.text-area{
+
+    display: block;
+    margin: 0 auto;
+    padding: 140px 0;
+
+}
+
+.text-area h2{
+
+    font-family: 'EB Garamond', serif;
+    font-weight: 800;
+   font-size: 36px;
+   color: white;
+
+}
+
+.text-area p{
+
+    font-family: 'EB Garamond', serif;
+    color: white;
+
+}
+
+#text{
+
+    width: 300px;
+    height: 44px;
+    padding: 0 10px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    border: none;
+ 
+}
+
+.form-area-1 button{
+
+    width: 150px;
+    height: 44px;
+    background: #B68C5A;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    
+}
+
+.Legal-1{
+
+    text-align: center;
+    padding:70px 0;
+
+}
+
+.Legal-1 h2{
+
+    font-family: 'EB Garamond', serif;
+    color: #414040;
+    font-weight: 800;
+
+}
+
+.Legal-1 P{
+
+    font-family: 'EB Garamond', serif;
+    color: #707070;
+
+}
+
+.law-1{
+
+    text-align: center;
+    width: 351px;
+    height: 359px;
+    padding: 30px 0;
+    
+}
+
+.law-1 img{
+    
+    width: 71px;
+    height: 72px;
+    margin-bottom:20px;
+
+}
+
+.law-2{
+
+    text-align: center;
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+    border: 1px solid #E7E7E7;
+    width: 351px;
+    height: 359px;
+    padding: 30px 0;
+    
+}
+
+.law-2 img{
+    
+   width: 62px;
+   height: 72px;
+   margin-bottom:20px;
+
+
+}
+
+.law-3{
+
+    text-align: center;
+    width: 351px;
+    height: 359px;
+    padding: 30px 0;
+    
+}
+
+.law-3 img{
+    
+    width: 73px;
+    height: 72px;
+    margin-bottom:20px;
+
+}
+
+.law-3 a img{
+    
+    width: 32px;
+    height: 32px;
+    
+}
+
+.law-2 a img{
+    
+    width: 32px;
+    height: 32px;
+    
+}
+
+.law-1 a img{
+    
+    width: 32px;
+    height: 32px;
+    
+}
+
+.law-1 h5{
+
+    font-family: 'EB Garamond', serif;
+
+}
+
+.law-1 p{
+
+    font-family: 'EB Garamond', serif;
+
+}
+
+.law-2 h5{
+
+    font-family: 'EB Garamond', serif;
+
+}
+
+.law-2 p{
+
+    font-family: 'EB Garamond', serif;
+
+}
+
+.law-3 h5{
+
+    font-family: 'EB Garamond', serif;
+
+}
+
+.law-3 p{
+
+    font-family: 'EB Garamond', serif;
+
+}
+
+.tushar{
+
+    border: 1px solid #E7E7E7;
+    width: 1170px
+}
+
+.law-5{
+
+    text-align: center;
+    border: 1px solid #E7E7E7;
+    text-align: center;
+    width: 351px;
+    height: 359px;
+    padding: 30px 0;
+
+}
+
+.law-5 h5{
+
+    font-family: 'EB Garamond', serif;
+}
+
+.law-5 p{
+
+    font-family: 'EB Garamond', serif;
+}
+
+.law-5 img{
+
+    margin-bottom: 20px;
+}
+
+.our-client h2{
+
+    font-family: 'EB Garamond', serif;
+}
+
+.our-client p{
+
+    font-family: 'EB Garamond', serif;
+    color: #707070;
+
+}
+
+.rect-3{
+
+    width: 1170px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.rect-2{
+
+    width: 1170px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.rect-1{
+
+    width: 1170px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.carousel-caption img{
+
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+
+}
+
+.Freq h2{
+
+    font-family: 'EB Garamond', serif;
+}
+
+.Freq p{
+
+    font-family: 'EB Garamond', serif;
+    color: #707070;
+
+}
+
+.tushar-1 img{
+
+    width: 500px;
+    height: 470px;
+}
+
+
+.with-us h2{
+
+    font-family: 'EB Garamond', serif;
+}
+
+.with-us p{
+
+    font-family: 'EB Garamond', serif;
+    color: #707070;
+}
+
+.ad-1{
+
+    background: #F3F3F3;
+    width: 285px;
+    height: 205px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.adress{
+
+    grid-gap: 10px;
+    margin-bottom: 10px;
+}
+
+.adress-2{
+
+    grid-gap: 10px;
+    
+}
+
+.ad-1 img{
+
+    margin-bottom: 10px;
+}
+
+#tex-1{
+
+    width: 370px;
+    height: 52px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    background: #F3F3F3;
+    border-radius: 8px;
+    border: none;
+    padding: 0 10px;
+
+}
+
+#tex-3{
+
+    width: 370px;
+    height: 52px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border: none;
+    padding: 0 10px;
+    background: #F3F3F3;
+
+}
+
+#em-2{
+
+    width: 370px;
+    height: 52px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border: none;
+    padding: 0 10px;
+    background: #F3F3F3;
+
+}
+
+.form-area button{
+
+    width: 370px;
+   height: 42px;
+   margin-bottom: 15px;
+}
+
+#tt{
+
+    border-radius: 8px;
+    border: none;
+    padding: 0 10px;
+    background: #F3F3F3;
+    color: gray;
+}
+
+.form-area button{
+
+    width: 370px;
+    height: 44px;
+    background: #B68C5A;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    margin-top: 10px;
+    
+}
+
+.jambo{
+
+    background: #111111;
+}
+
+.tex-img img{
+
+    width: 128px;
+    height: 46px;
+    margin-bottom: 20px;
+
+}
+
+.main-menu-1 h5{
+
+    font-family: 'EB Garamond', serif;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
+
+.main-menu-1 li{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 15px;
+}
+
+.tex-img p{
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-menu-2 li{
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-menu-3 li{
+
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-menu-3 h4{
+
+    font-family: 'EB Garamond', serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main-menu-2 h4{
+
+    font-family: 'EB Garamond', serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.main-menu-3 p{
+
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.kaku-1 img{
+
+    width: 40px;
+    background-color: #B68C5A;
+    position: absolute;
+    margin-right: 30px;
+    
+}
+
+
+#adda{
+
+    width: 200px;
+    height: 40px;
+    padding: 0 10px;
+
+}
+
+.btn-link:after{
+
+    content: '\2212';
+    width: 35px;
+    font-size: 25px;
+    text-align: center;
+    border-radius: 5px;
+    right: 15px;
+    top: 11px;
+    position: absolute;
+    background-color: #e8eeff;
+}
+
+.btn-link.collapsed:after{
+
+    content: '\002B';
+}
